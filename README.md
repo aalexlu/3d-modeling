@@ -21,4 +21,10 @@ modifications through diff views
 Extruded mirrors toward each other with clipping enabled  
 select two vertices and f to close hole  
 
-## 5.6
+## 5.6 Adding top and reshaping
+
+Cuts then reshaping from every view G-Y shift  
+Cut S-Y-0  
+I - inset face remove boundary before property window closes  
+General vertex selection reshaping
+Extruded front section
